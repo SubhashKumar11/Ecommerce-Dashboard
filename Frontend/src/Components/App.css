@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-ul li{
+display: inline-block;
+padding: 10px;
+}
+.nav-ul li a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+.nav-ul{
+    padding: 20px;
+    margin: 0;
+    background-color: aqua;
+    height: 20px;
+    
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    height: 80px;
+    text-align: center;
+    width: 100%;
+    background-color: aqua;
+}
+.input{
+display: block;
+padding: 5px;
+margin: 20px;
+width: 300px;
+border: 1px solid skyblue;
+}
+.register{
+    margin-left: 300px;
+    margin-top: 166px;
+}
+.signup-btn{
+margin-left: 120px;
+background-color: green;
+border-radius: 20px;
+width: 100px;
+color: white;
+cursor: pointer;
+}
+.login{
+    margin-left: 30%;
+    margin-top: 100px;
+}
+.inputBox{
+    display: block;
+    padding: 5px;
+    margin: 20px;
+    width: 175px;
+    border: 2px solid skyblue;
+    box-shadow: 50px;
+}
+.logo{
+    width: 45;
+    float: left;
+    border-radius: 50%;
+    margin-top: 3px;
+    margin-left: 20px;
+}
+.product{
+    margin-left: 300px;
+    margin-top: 166px;
+    display: block;
+    padding: 5px;
+    margin: 20px;
+    width: 300px;
+    
+    border: 1px solid skyblue;
+}
+.spans{
+    color: red;
+    margin-top: -20px;
+    margin-left: 20px;
+    display: block;
+    margin-bottom: -15px;
+}
+.product-list{
+    text-align: center;
+    margin-top: 50px;
+}
+.product-list ul li{
+    display: inline-block;
+    border: 1px solid aqua;
+    padding: 5px;
+    width: 150px;
+}
+.product-list ul{
+    margin: 0;
+}
+.search-box{
+    width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid red;
+    box-shadow: 5px 5px 5px 5px green;
+}
